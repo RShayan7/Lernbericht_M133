@@ -1,31 +1,37 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Shayanthan Ravindran
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Im Projekt ging es hauptsächlich um das Arbeiten mit JavaWeb und JSF.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt, wie man für das Weiterleiten den commandLink verwendet.
 
 ## Beschreibung
+Hier im unteren Bild sieht man den Code für den commandLink. Im Code sieht man unter action die ausgewählte "xhtml" File und den dazuheghörigen Titel welcher dann als Link ausgegeben wird.
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+Code-Line: 
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+<h:commandLink action="schritt1.xhtml" value = "Schritt 1"/>
+
+Beschreibung:
+
+![image](https://user-images.githubusercontent.com/89385736/187237052-6661ee3c-a81c-4fe1-8e6b-7ececee3075e.png)
+
+Video:
+
+![LA_133_9910 (2)](https://user-images.githubusercontent.com/89385736/187255800-34d1d18e-d631-4d8f-9349-676727777881.gif)
+
 
 ## Verifikation
-
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+In der Beschreibung sieht man, wie ich den commandLink in 3 Methoden darstelle bzw. verfiziere. Dies zeigt, was ich gelernt habe und wie ich es umgesetzt habe.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Das Gute an diesem Auftrag war im Allgemeinen das Verständnis bzw. es war klar wie und wo der CommandLink verwendet werden muss.
 
-👎 und etwas, was nicht gut lief.
+👎 Während dieses Auftrag hatte ich anfangs Probleme mit dem xhtml-File, was zu mehr Problemen geführt hatte.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Ein Verbesserungsvorschlag für das nächste Mal wäre, dass ich nicht zu lang an etwas fest halte, wie bei dem erstellen des xhtml-File. Wenn ich verwirrt bin oder etwas unklar ist, dann muss ich zum Lehrer gehen. Durch diesen Verbesserungsvorschlag kann ich schneller vorankommen.
